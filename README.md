@@ -16,7 +16,7 @@ The project is designed as a portfolio demonstration of applied risk modelling. 
 
 **Try the deployed application:**
 
-[Launch Streamlit App](STREAMLIT_URL)
+[Launch Streamlit App](https://banking-crisis-early-warning-system.streamlit.app/)
 
 The application allows users to enter a historical-style macro-financial scenario and obtain a one-year-ahead model warning score.
 
